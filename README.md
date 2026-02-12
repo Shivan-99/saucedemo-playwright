@@ -22,7 +22,7 @@ https://www.saucedemo.com/
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 playwright-saucedemo/
 ├── tests/
 ├── pages/
